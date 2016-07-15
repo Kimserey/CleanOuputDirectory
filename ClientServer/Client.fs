@@ -1,4 +1,4 @@
-namespace AppBinTest
+namespace ClientServer
 
 open WebSharper
 open WebSharper.JavaScript
